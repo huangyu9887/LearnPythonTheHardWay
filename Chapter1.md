@@ -25,10 +25,14 @@
 
 - 输入
 > print "hello, world!"
-print "hi, this is my first python program"
-print "I heard python is the most nature language so far"
-print "many scientists used python as their daily tool to program"
-print "From my point of view, it is just like speaking English"
+
+> print "hi, this is my first python program"
+
+> print "I heard python is the most nature language so far"
+
+> print "many scientists used python as their daily tool to program"
+
+> print "From my point of view, it is just like speaking English"
 
 - 保存为 "python_ex1.py" ，名字不重要啦，有一个名字就行
 
@@ -40,11 +44,16 @@ print "From my point of view, it is just like speaking English"
 
 >
      hello, world!
+     
      hi, this is my first python program
+     
      I heard python is the most nature language so far
+     
      many scientists used python as their daily tool to program
+     
      From my point of view, it is just like speaking English
-     HYLdeMacBook-Pro:documents hyl$ 
+     
+    
 
 ## 完成
 
