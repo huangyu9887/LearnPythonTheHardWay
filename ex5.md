@@ -1,5 +1,5 @@
 
-代码块（更多的变量和打印）：
+## 代码块（更多的变量和打印）：
 
 
     my_name = "Zed A. Shaw"
@@ -25,7 +25,7 @@
     print "If I add %d,%d,and %d I get %d." %(my_age,my_height,my_weight,my_age + my_height + my_weight)
 
 
-附加练习：
+## 附加练习：
 
 1.修改所有的变量名字，把它们前面的my_去掉。确认将每一个地方都改掉，不只是使用=赋值过的地方。
 
