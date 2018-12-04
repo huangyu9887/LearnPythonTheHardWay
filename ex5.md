@@ -58,7 +58,8 @@
 
 # 参考文献
 
-* https://www.cnblogs.com/wilber2013/p/4641616.html
+* [Python格式化字符串 - 田小计划 - 博客园](https://www.cnblogs.com/wilber2013/p/4641616.html)
+* [Markdown插入表格语法 - 简书](https://www.jianshu.com/p/2df05f279331)
 
 
 # CHANGELOG
