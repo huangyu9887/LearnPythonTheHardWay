@@ -1,4 +1,4 @@
-	```
+	
 	from datetime import datetime  
 
 
@@ -33,7 +33,7 @@
 	sum += du[i]
 
 	print ("总计："，sum ,"s")
-	```
+	
 
 # CHANGELOG
 - 20190108 add new feature
